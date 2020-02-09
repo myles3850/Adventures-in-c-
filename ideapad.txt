@@ -1,0 +1,3 @@
+program ideas
+    script to quickly make other c++ files based on templates we make
+    
